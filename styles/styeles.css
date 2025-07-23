@@ -20,3 +20,15 @@
 .links{
     text-decoration: none;
 }
+
+/*banner section*/ 
+.banner{
+    max-width: 1140px;
+    height: 461px;
+    display: flex;
+    margin: 0 auto;
+}
+.img{
+    max-width: 570px;
+    height: 355px;
+}
