@@ -32,3 +32,72 @@
     max-width: 570px;
     height: 355px;
 }
+
+.desc{
+    max-width: 570px;
+    height: 299px;
+}
+.head-color{
+    color: #E95A08;
+}
+.heading{
+    font-weight: bold;
+    font size: 65px;
+}
+.para{
+    font-size: 22px;
+}
+
+/* plant section */
+.plant-sec{
+    max-width: 1140px;
+    height: 118px;
+    margin: 0 auto;
+}
+.flower-samp{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+.plants-head{
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+    gap: 16px;
+}
+.text-align{
+    text-align: center;
+}
+.clr{
+    color: #E95A08;
+}
+.frangnace{
+    text-align: center;
+    color: #000000;
+    font-size: 22px;
+}
+.lily{
+    text-align: center;
+    color: #111111;
+    font-weight: medium;
+}
+.price{
+    text-align: center;
+    color: #111111;
+    font-weight: bold;
+}
+.advertisment{
+    max-width: 270px;
+    height: 484.94px;
+    
+}
+
+.adding{
+    width: 270px;
+    height: 50px;
+    background-color:#E95A08 ;
+    padding: 20px 50px;
+    color: #FFFFFF;
+    font-weight: 600px;
+    font-size: 16px;
+    border-style: none;
+}
