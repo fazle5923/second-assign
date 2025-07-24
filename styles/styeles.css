@@ -167,3 +167,173 @@
     font-size: 22px;
 
 }
+
+/*image section */
+
+.images-sec{
+    max-width: 1140px;
+    height: 423px; 
+    display: flex;
+    grid-template-columns: repeat(2 1fr);
+    gap: 25px;
+    margin-bottom: 4em;
+   
+    
+}
+.bloom{
+    background-image:url(../assets/deal-bloom.png);
+    width: 367px;
+    height: 201px;
+    border-radius:14px;
+    text-align: center;
+    align-items: center;
+    position: relative; 
+    overflow: hidden;
+    margin-bottom: 25px;
+    
+}
+.bloom-style{
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 1em;
+}
+.bloom-btn{
+    border-style: none;
+    text-decoration: none;
+    transition: 0.3s;
+    padding: 10px 20px;
+    background: transparent;
+  color: white;
+   transition: color 0.3s;
+
+}
+.shop-now{
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.ana{
+    background-image: url(../assets/deal-ana.png);
+    width: 367px;
+    height: 201px;
+    border-radius:14px;
+    text-align: center;
+    align-items: center;
+    position: relative; 
+    overflow: hidden;
+
+}
+.ana-style{
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 1em;
+}
+.ana-btn{
+     border-style: none;
+    text-decoration: none;
+    transition: 0.3s;
+    padding: 10px 20px;
+    background: transparent;
+  color: white;
+   transition: color 0.3s;
+}
+
+.zabo{
+    background-image: url(../assets/deal-zabo.png);
+     width: 753px;
+    height: 423px;
+    border-radius:14px;
+    text-align: center;
+    align-items: center;
+    position: relative; 
+    overflow: hidden;
+
+}
+.zabo-style{
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 3em;
+}
+.zabo-btn{
+    border-style: none;
+    text-decoration: none;
+    transition: 0.3s;
+    padding: 0 auto; 
+    background: transparent;
+    color: white;
+    transition: color 0.3s;
+}
+
+/* Join Section */
+.join{
+    max-width:1440px;
+    height: 533px;
+    background-image: url(../assets/news-letter-bg.png);
+    background-size: cover;
+    background-position:center;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  position: relative;
+    
+   
+    
+}
+
+.join-heading{
+    max-width: 586px;
+    height: 68px;
+    font-weight: bold;
+    font-size: 50px;
+    color: #FFFFFF;
+    margin-bottom: 23px;
+    text-align: center;
+    position: relative;
+  z-index: 1;
+  justify-content: center;
+  margin-left: 5.5rem;
+
+    
+}
+
+
+.form{
+    display: flex;
+    
+   
+  
+}
+.fill-up{
+    width: 644px;
+    height: 50px;
+}
+.sub-btn{
+    width: 186px;
+    height: 56px;
+    background-color: #E95A08;
+    border-style: none;
+    color: #FFFFFF;
+    font-size: 16;
+    font-weight: 600px;
+    outline: none;
+    
+}
+
+    
+
+
