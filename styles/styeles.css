@@ -72,7 +72,7 @@
 }
 .frangnace{
     text-align: center;
-    color: #000000;
+    color:lightslategray;
     font-size: 22px;
 }
 .lily{
@@ -100,4 +100,41 @@
     font-weight: 600px;
     font-size: 16px;
     border-style: none;
+}
+
+/* lover section */
+.lover{
+    max-width: 1140px;
+    height: 597px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 8rem;
+}
+
+.img{
+    max-width: 540px;
+    height: 597px;
+}
+
+.side-desc{
+    max-width: 540px;
+    height: 521px;
+}
+.heading-box-size{
+    max-width: 540px;
+    height: 137px;
+    margin-top: 38px;
+    font-weight: bold;
+    font-size:50px;
+    color: #000000;
+    margin-bottom: 20px;
+
+}
+.list-box-size{
+    max-width: 540px;
+    height: 108px;
+    font-size: 22px;
+    color: #000000;
+    margin-bottom: 20px;
+
 }
