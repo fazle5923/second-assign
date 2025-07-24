@@ -290,6 +290,7 @@
   align-items: center;
   text-align: center;
   position: relative;
+  margin-bottom: 50px;
     
    
     
@@ -334,6 +335,49 @@
     
 }
 
-    
+/* footer section */
+
+.footer{
+    max-width: 1120px;
+    height: 248px;
+    display: flex;
+    justify-content: space-around;
+}  
+.logo-with-p{
+    max-width: 359px;
+    height: 179px;
+}
+
+.img-shp{
+    max-width: 135px;
+    height: 82px;
+}
+.foot-p{
+    color: lightslategray;
+    font-size: 22px;
+}
+.search-opt{
+    list-style: none;
+    color: gray;
+}
+
+.search-opt-again{
+    list-style: none;
+    margin-bottom: 2rem;
+    color: gray;
+}
+
+.icons{
+    gap: 24px;
+}
+
+.search-itm{
+    margin-bottom: 32px;
+}
+.icon-gap{
+    margin-right: 24px;
+}
+
+
 
 
