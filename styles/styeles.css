@@ -138,3 +138,32 @@
     margin-bottom: 20px;
 
 }
+
+/*Dealing Section*/ 
+.Deals{
+    max-width: 1440px;
+    height: 138px;
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+    text-align: center;
+}
+
+.dealing-head{
+    max-width:1440px;
+    height: 68px;
+    font-weight: bold;
+    font-size: 50px;
+    color:#000000;
+    margin-bottom: 0.8rem;
+
+
+}
+.lateset-color{
+    color: #E95A08;
+}
+
+.deals-para{
+    color:lightslategray;
+    font-size: 22px;
+
+}
