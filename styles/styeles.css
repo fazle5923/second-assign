@@ -386,6 +386,10 @@
  /* responsiveness */ 
  
  @media screen and (max-width: 576px) {
+    *{
+        margin:auto
+        padding:auto
+    }
     /* header section */
 
     .response{
@@ -416,12 +420,16 @@
         justify-content:center;
         align-items: center;
         gap: 5px;
+        margin: 0px;
     }
 
     /* lover section */ 
     .lover{
         flex-direction: column;
         margin-bottom: 40rem;
+    }
+    .lover-img{
+        display: contents;
     }
 
     /* Deals section */ 
@@ -459,12 +467,21 @@
         height: 50px;
     }
     
+    /* Footer section */
+    .ending{
+        height: 1100px;
+        width: 450px;
+        flex-direction: column;
+        
+    }
     
+.footer{
+    display: block;
+}
 
-
-
-
-    
+.search-itm{
+    text-align: left;
+}
 
     
 
